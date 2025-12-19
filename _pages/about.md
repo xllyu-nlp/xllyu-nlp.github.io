@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 
-# 🔈**JOIN US!**
+## 🔈 JOIN US!
+---
 
-# 🔥 News
-# 👨‍🎓 Education
-# 💻 Work Experience
-# 📝 Selected Publications
+## 🔥 News
+## 👨‍🎓 Education
+## 💻 Work Experience
+## 📝 Selected Publications
