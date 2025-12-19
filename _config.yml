@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "IMG_1458.PNG"
   name             : "Xinglin Lyu"
-  pronouns         : "he/him"  
+  # pronouns         : "he/him"  
   bio              : "Assistant Professor in Zhengzhou University, NLPer"
   location         : "Zhengzhou, China"
   employer         : "Zhengzhou University"
