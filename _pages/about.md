@@ -12,12 +12,10 @@ I am currently an AP at the [School of Computer Science and Artificial Intellige
 ### 🔈 JOIN US!
 Inspired by the philosophy that understanding emerges through creation, my research aims to advance the foundations and applications of large language models. I am particularly interested in exploring how foundation models can be designed, adapted, and evaluated to better support complex reasoning and long-context generation. My work seeks to bridge model capabilities with practical generation and evaluation challenges in real-world, document-level scenarios.
 
-I am open to collaborations in the following research areas and welcome discussions with researchers and practitioners who share similar interests:
+**Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:**
 
 - **Foundation Models**: large-scale pretraining, architectural design, and capability analysis
-
 - **Long-Context Generation and Evaluation**: document-level and long-text generation, coherence modeling, and automatic evaluation
-
 - **Multimodal Foundation Models**: unified modeling across text, speech, and vision, and cross-modal understanding and generation
 
 
