@@ -24,6 +24,7 @@ I am open to collaborations in the following research areas and welcome discussi
 ### 🔥 News
 - 2025.12: Our paper "__A Unified Framework for Document-level Repair and Translation with Global Awareness__" is accepted by [TASLP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing)
 - 2025.12: Our paper "__Enhancing LLM-based Context-Aware Machine Translation via Multi-phase and Multi-task Prompt Tuning__" is accepted by [TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
+
 ### 👨‍🎓 Education
 - 2020.09-2024.09, PhD in NLP Lab at [Soochow University](https://www.suda.edu.cn/), supervised by [Junhui Li](https://web.suda.edu.cn/jhli/) and [Min Zhang](https://zhangminsuda.github.io/)
 - 2018.09-2020.06, M.S in NLP Lab at [Soochow University](https://www.suda.edu.cn/), supervised by [Fang Kong](https://scst.suda.edu.cn/11/55/c30767a528725/page.htm)
@@ -34,6 +35,7 @@ I am open to collaborations in the following research areas and welcome discussi
 - 2023.09-2024.09, Research Intern, Translation Service Center (TSC) at Huawei 2012 Lab
 - 2024.10-2025.10, Researcher, Translation Service Center (TSC) at Huawei 2012 Lab
 - 2025.12-Now, Assistant Professor, Zhengzhou University
+
 ### 📝 Selected Publications
 - Encouraging Lexical Translation Consistency for Document-Level Neural Machine Translation. [[Paper]()]<br>
 **Xinglin Lyu**, Junhui Li, Zhengxian Gong, Min Zhang. 2021. EMNLP. 
