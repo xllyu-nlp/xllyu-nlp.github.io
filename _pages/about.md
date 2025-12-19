@@ -1,7 +1,7 @@
 ---
 permalink: /
 excerpt: ""
-title: "Xinglin Lyu"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
