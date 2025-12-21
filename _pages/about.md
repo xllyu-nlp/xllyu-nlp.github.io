@@ -35,16 +35,16 @@ Inspired by the philosophy that understanding emerges through creation, my resea
 - 2025.12-Now, Assistant Professor, Zhengzhou University
 
 ### 📝 Selected Publications
-- Encouraging Lexical Translation Consistency for Document-Level Neural Machine Translation. [[Paper]()]<br>
+- Encouraging Lexical Translation Consistency for Document-Level Neural Machine Translation. [[Paper](https://aclanthology.org/2021.emnlp-main.262/)]<br>
 **Xinglin Lyu**, Junhui Li, Zhengxian Gong, Min Zhang. 2021. EMNLP. 
-- Modeling Consistency Preference via Lexical Chains for Document-level Neural Machine Translation. [[Paper]()]<br>
+- Modeling Consistency Preference via Lexical Chains for Document-level Neural Machine Translation. [[Paper](https://aclanthology.org/2022.emnlp-main.424/)]<br>
 **Xinglin Lyu**, Junhui Li, Shimin Tao, Hao Yang, Min Zhang. 2022. EMNLP. 
-- DeMPT: Decoding-enhanced Multi-phase Prompt Tuning for Making LLMs Be Better Context-aware Translators. [[Paper]()][[Code]()]<br>
+- DeMPT: Decoding-enhanced Multi-phase Prompt Tuning for Making LLMs Be Better Context-aware Translators. [[Paper](https://aclanthology.org/2024.emnlp-main.1131/)][[Code](https://github.com/xllyu-nlp/DeMPT)]<br>
 **Xinglin Lyu**, Junhui Li, Yanqing Zhao, Min Zhang, Daimeng Wei, Shimin Tao, Hao Yang, Min Zhang. 2024. EMNLP. 
-- Refining History for Future-Aware Neural Machine Translation.[[Paper]()]<br>
+- Refining History for Future-Aware Neural Machine Translation.[[Paper](https://ieeexplore.ieee.org/document/9989330)]<br>
 **Xinglin Lyu**, Junhui Li, Min Zhang, Chenchen Ding, Hideki Tanaka, Masao Utiyama. 2022. TASLP.
-- A Survey of Document-level Neural Machine Translation. [[Paper]()]<br>
+- A Survey of Document-level Neural Machine Translation. [[Paper](https://jos.org.cn/html/2025/1/7217.htm)]<br>
 **Xinglin Lyu**, Junhui Li, Shimin Tao, Hao Yang, Min Zhang. 2024. Journal of Software.
-- DoCIA: An Online Document-Level Context Incorporation Agent for Speech Translation. [[Paper]()][[Code]()]<br>
+- DoCIA: An Online Document-Level Context Incorporation Agent for Speech Translation. [[Paper](https://aclanthology.org/2025.findings-acl.771/)][[Code](https://github.com/xllyu-nlp/DoCIA)]<br>
 **Xinglin Lyu**, Junhui Li, DaiMeng Wei, Min Zhang, Shimin Tao, Hao Yang, Min Zhang. 2025. ACL findings.
 
